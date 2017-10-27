@@ -16,5 +16,5 @@ INSERT INTO `distributor` (name, item, price) VALUES
 	('Distributor','',3),
 	('Distributor','',3),
 	('Distributor','',3),
-	('Distributor','',3) -- A vous de mettre d'autres items (le label !!!!!!)
+	('Distributor','',3) -- A vous de mettre d'autres items (le name !!!!!!)
 ;
