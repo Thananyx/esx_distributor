@@ -34,7 +34,7 @@ ESX.RegisterUsableItem('pepsi', function(source)
 
 	xPlayer.removeInventoryItem('pepsi', 1)
 
-	TriggerClientEvent('esx_status:add', source, 'hunger', 200000)
+	TriggerClientEvent('esx_status:add', source, 'thirst', 200000)
 	TriggerClientEvent('esx_basicneeds:onDrinkPepsi', source)
 	TriggerClientEvent('esx:showNotification', source, _U('used_pepsi'))
 
