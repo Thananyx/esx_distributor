@@ -64,4 +64,4 @@ AddEventHandler('esx_basicneeds:onDrinkPepsi', function(prop_name)
 			DeleteObject(prop)
 		end)
 	end
-end)```
+end)
